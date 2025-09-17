@@ -18,7 +18,7 @@ This system integrates:
 2. Data is stored in **SharePoint list (`rsv_report`)**
 3. **Power BI** pulls and visualizes the data live
 
-![Architecture Diagram Placeholder](images/architecture.png)
+![Architecture Diagram Placeholder](images/1png)
 
 ---
 
@@ -36,7 +36,7 @@ This system integrates:
 
 **View:**
 
-![SharePoint List View](images/image1.png)  
+![SharePoint List View](images/2.png)  
 *Image 1: SharePoint list (`rsv_report`)*
 
 ---
@@ -50,7 +50,7 @@ This system integrates:
 - Shows the live status of all dispensers and connected buses
 - Includes LED state, SOC, and connection status
 
-![Power BI Dashboard](images/image2.png)  
+![Power BI Dashboard](images/3.png)  
 *Image 2: Power BI Tracker Dashboard*
 
 ### 📋 Data Table View
@@ -58,7 +58,7 @@ This system integrates:
 - Tabular data representation
 - Useful for filtering, searching, and exporting raw data
 
-![Power BI Data Table](images/image3.png)  
+![Power BI Data Table](images/4.png)  
 *Image 3: Power BI Data Table View*
 
 ---
@@ -72,7 +72,7 @@ This system integrates:
 - Simple form to input charger status, bus details, and location
 - Submits data directly to SharePoint
 
-![Power Apps Data Entry](images/image4.png)  
+![Power Apps Data Entry](images/5.png)  
 *Image 4: Power Apps Data Entry Screen*
 
 ### 📑 Data Table View
@@ -80,7 +80,7 @@ This system integrates:
 - Displays all submitted records
 - Supports filtering by date, time (From/To hours), and location
 
-![Power Apps Data Table](images/image5.png)  
+![Power Apps Data Table](images/6.png)  
 *Image 5: Power Apps Data Table View*
 
 ### 📈 Custom Graphical Visualization
